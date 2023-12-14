@@ -22,43 +22,38 @@ The reason behind choosing this Topic is The growth of supermarkets in most popu
 *	Linux / Windows (7/8.1/10)
 *	70.0 KB (71,682 bytes) RAM and 72.0 KB (73,728
 *	bytes) disk space
-*	Python 3.8.3 or higher version
 
-# Prerequisites
-Install python interpreter from the [official website](https://www.python.org/).
-Install git from the [official website](https://git-scm.com/).
-### Linux 
-#### Debian
-```bash
-    sudo apt install python3 git
-```
-#### Arch
-```bash
-    sudo pacman -S python3 git
-```
-### Windows 11
-```bash
-winget install Python.Python.3.12 Git.Git
-```
-## Installation of required python libraries
+## Prerequisites
+Git
+Python 3.8.3+
+Libraries: Pandas, Numpy, Matplotlib.
 
-```bash
-pip install numpy
-pip install pandas
-pip install matplotlib
-```
+## Installation
 
-## Main Installation & Direction for use
+#### Installation script for both the recommended operating systems are provide, they require internet connection on the host machine to run. Incase they do not work or fail to install some prerequisites, make sure to install the prerequisites manually or else the code may not work.
 
+#### Linux
 ```bash 
 git clone https://github.com/dr460ngeek/Informatic-Practices-Project.git
 cd Informatic-Practices-Project 
+sudo su
+chmod +x Linux.sh
+./Linux.sh
+```
+#### Windows 
+Make sure to run command prompt as administrator before executing the following commands.
+```bash 
+git clone https://github.com/dr460ngeek/Informatic-Practices-Project.git
+cd Informatic-Practices-Project 
+windows.bat
+```
+## Direction to use
+Execute the code to get started.
+```
 python main.py
 ```
-
-
 ## Authors
 
 - (Student) Pratham Agarwal, Class 12 "Commerce" github:[@dr460ngeek](https://github.com/dr460ngeek)
 
-- (Teacher) Mr. Debesh Majumbar our informatics practices faculty.
+- (Teacher) Mr. Debesh Majumbar
