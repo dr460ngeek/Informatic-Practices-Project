@@ -20,8 +20,7 @@ The reason behind choosing this Topic is The growth of supermarkets in most popu
 
 *	A Computer/Laptop with Operating System
 *	Linux / Windows (7/8.1/10)
-*	70.0 KB (71,682 bytes) RAM and 72.0 KB (73,728
-*	bytes) disk space
+*	70.0 KB (71,682 bytes) RAM and 72.0 KB (73,728 bytes) disk space
 
 ## Prerequisites
 Git
