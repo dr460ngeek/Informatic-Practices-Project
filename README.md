@@ -9,7 +9,7 @@ The project has been made to use and check the codes I have learned. There are a
 
 #### Member Detail:
 
-This project is developed by Pratham Agarwal. All the operations are completed by me as per my learnings with assistance of my teacher. It took me approximately a month to develop this project.
+This project is developed by **Pratham Agarwal**. All the operations are completed by me as per my learnings with assistance of my teacher. It took me approximately a month to develop this project.
 
 #### Reason for the project:
 
