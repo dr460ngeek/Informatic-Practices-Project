@@ -1,0 +1,20 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Electronics,HP_Envy_Laptop,2300,Pratham Agarwal,MasterCard
+Grocery,Potato,65,Pratham Agarwal,VISA
+Grocery,Tomato,40,Pratham Agarwal,VISA
+Clothing,Mens_Jeans,80,Koushik Shah,MasterCard
+Electronics,SamsungS10+,3000,Koushik Shah,VISA
+Grocery,Tomato,40,Koushik Shah,VISA
+Grocery,Potato,65,Koushik Shah,MasterCard
+Clothing,Ladies_Jeans,70,Arko Debnath,VISA
+Electronics,SamsungS10+,3000,Arko Debnath,MasterCard
+Stationary,FaberCastle_Pens,30,Mukesh Mandal,VISA
+Stationary,Flamingo_Notebook,50,Mukesh Mandal,MasterCard
+Clothing,Mens_Jeans,80,Mukesh Mandal,MasterCard
+Clothing,NIKE_Running_Shoes,200,Mukesh Mandal,MasterCard
+Clothing,Mens_Jeans,80,Mukesh Mandal,MasterCard
+Stationary,Maped_Sketchpens,20,Deep Jaiswal,VISA
+Electronics,SamsungS10+,3000,Deep Jaiswal,VISA
+Stationary,Flamingo_Notebook,50,Deep Jaiswal,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Muhammad Aftab,MasterCard
+Stationary,FaberCastle_Pens,30,Muhammad Aftab,VISA

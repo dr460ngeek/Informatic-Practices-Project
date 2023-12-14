@@ -1,0 +1,21 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Stationary,POST-Its,5,Arko Debnath,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Arko Debnath,MasterCard
+Clothing,Ladies_Jeans,70,Arko Debnath,VISA
+Grocery,Cabbage,50,Arko Debnath,MasterCard
+Grocery,Potato,65,Arko Debnath,MasterCard
+Stationary,FaberCastle_Pens,30,Akash Sharma,VISA
+Electronics,XBOX One,2000,Shayan Acharya,MasterCard
+Clothing,NIKE_Running_Shoes,200,Koushik Shah,MasterCard
+Stationary,Maped_Sketchpens,20,Koushik Shah,VISA
+Electronics,SamsungS10+,3000,Shayan Acharya,VISA
+Stationary,Maped_Sketchpens,20,Mukesh Mandal,VISA
+Grocery,Cabbage,50,Mukesh Mandal,MasterCard
+Grocery,Tomato,40,Mukesh Mandal,VISA
+Electronics,SamsungS10+,3000,Mukesh Mandal,MasterCard
+Stationary,Flamingo_Notebook,50,Muhammad Aftab,MasterCard
+Stationary,POST-Its,5,Deep Jaiswal,MasterCard
+Clothing,VANS Backpack,125,Deep Jaiswal,VISA
+Clothing,Ladies_Jeans,70,Deep Jaiswal,VISA
+Stationary,FaberCastle_Pens,30,Deep Jaiswal,VISA
+Clothing,NIKE_Running_Shoes,200,Tanmay Dey,MasterCard

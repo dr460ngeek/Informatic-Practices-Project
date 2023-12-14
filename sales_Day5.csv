@@ -1,0 +1,21 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Clothing,Mens_Jeans,80,Pratham Agarwal,MasterCard
+Clothing,VANS Backpack,125,Pratham Agarwal,VISA
+Stationary,POST-Its,5,Pratham Agarwal,MasterCard
+Electronics,XBOX One,2000,Pratham Agarwal,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Pratham Agarwal,MasterCard
+Grocery,Tomato,40,Deep Jaiswal,VISA
+Grocery,Potato,65,Mukesh Mandal,MasterCard
+Grocery,Cabbage,50,Mukesh Mandal,MasterCard
+Stationary,Maped_Sketchpens,20,Mukesh Mandal,VISA
+Stationary,FaberCastle_Pens,30,Mukesh Mandal,VISA
+Electronics,HP_Envy_Laptop,2300,Muhammad Aftab,VISA
+Electronics,XBOX One,2000,Muhammad Aftab,MasterCard
+Stationary,Flamingo_Notebook,50,Muhammad Aftab,MasterCard
+Stationary,Maped_Sketchpens,20,Koushik Shah,VISA
+Stationary,FaberCastle_Pens,30,Koushik Shah,VISA
+Grocery,Cabbage,50,Koushik Shah,MasterCard
+Grocery,Tomato,40,Koushik Shah,VISA
+Grocery,Cabbage,50,Tanmay Dey,MasterCard
+Stationary,Flamingo_Notebook,50,Arko Debnath,MasterCard
+Stationary,FaberCastle_Pens,30,Arko Debnath,VISA

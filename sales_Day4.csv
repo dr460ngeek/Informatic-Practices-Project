@@ -1,0 +1,21 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Clothing,Mens_Jeans,80,Tanmay Dey,MasterCard
+Stationary,POST-Its,5,Tanmay Dey,MasterCard
+Stationary,Maped_Sketchpens,20,Tanmay Dey,VISA
+Grocery,Potato,65,Arko Debnath,MasterCard
+Grocery,Cabbage,50,Arko Debnath,MasterCard
+Grocery,Tomato,40,Tanmay Dey,VISA
+Stationary,Maped_Sketchpens,20,Tanmay Dey,VISA
+Grocery,Cabbage,50,Pratham Agarwal,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Pratham Agarwal,MasterCard
+Clothing,NIKE_Running_Shoes,200,Pratham Agarwal,MasterCard
+Stationary,Flamingo_Notebook,50,Pratham Agarwal,MasterCard
+Clothing,Mens_Jeans,80,Pratham Agarwal,MasterCard
+Stationary,FaberCastle_Pens,30,Tanmay Dey,VISA
+Clothing,Ladies_Jeans,70,Muhammad Aftab,VISA
+Grocery,Cabbage,50,Muhammad Aftab,MasterCard
+Grocery,Potato,65,Muhammad Aftab,MasterCard
+Electronics,SamsungS10+,3000,Mukesh Mandal,MasterCard
+Grocery,Tomato,40,Mukesh Mandal,VISA
+Grocery,Potato,65,Mukesh Mandal,MasterCard
+Electronics,HP_Envy_Laptop,2300,Mukesh Mandal,MasterCard
