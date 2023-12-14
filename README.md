@@ -2,8 +2,20 @@
 # INFORMATICS PRACTICES (065) PROJECT
 
 ### Project for the purpose of Class 12 practicle board exams.
+## PROJECT TITLE: Market sales analysis
 
-### Don't steal my code please, as it contains my hardwork of 6 months (well, almost.)
+#### PROBLEM DEFINATION:
+
+The project has been made to use and check the codes I have learned. There are approximately more than 5 operations done on the selected dataset.
+
+#### MEMBER DETAIL:
+
+This project is developed by Pratham Agarwal. All the operations are completed by me as per my learning. It took approximately a month to develop this project.
+
+#### REASON FOR CHOOSING THE TOPIC:
+
+The reason behind choosing this Topic is The growth of supermarkets in most populated cities are increasing and market competitions are also high. In a Super Market Store, customers shop from properly labelled racks, and at the end of the store, there is a cashier who takes the money after weighing and inspecting the goods. Customers typically make purchases and transport them in trolleys. So, supermarkets are known as self-service stores because customers are expected to do all of their shopping without the assistance of salespeople or sales assistants. I also like that topic very much.
+
 ## Hardware Requirements
 
 *	A Computer/Laptop with Operating System
