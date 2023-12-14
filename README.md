@@ -23,9 +23,9 @@ The reason behind choosing this Topic is The growth of supermarkets in most popu
 *	70.0 KB (71,682 bytes) RAM and 72.0 KB (73,728 bytes) disk space
 
 ## Prerequisites
-Git
-Python 3.8.3+
-Libraries: Pandas, Numpy, Matplotlib.
+* Git
+* Python 3.8.3+
+* Libraries: Pandas, Numpy, Matplotlib.
 
 ## Installation
 
