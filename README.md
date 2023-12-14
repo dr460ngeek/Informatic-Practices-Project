@@ -2,7 +2,7 @@
 # **INFORMATICS PRACTICES (065) PROJECT**
 
 #### Project for the purpose of Class 12 practicle board exams.
-## Project Title: Market sales analysis
+# Project Title: Market sales analysis
 
 #### Problem Definition:
 
