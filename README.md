@@ -1,4 +1,3 @@
-
 # **INFORMATICS PRACTICES (065) PROJECT**
 
 #### Project for the purpose of Class 12 practicle board exams.
@@ -59,6 +58,6 @@ python main.py
 ```
 ## **Authors**
 
-- (Student) Pratham Agarwal, Class 12 "Commerce" github:[@dr460ngeek](https://github.com/dr460ngeek)
+- (Student) Pratham Agarwal, Class 12 "Commerce" github: [@dr460ngeek](https://github.com/dr460ngeek)
 
 - (Teacher) Mr. Debesh Majumbar
