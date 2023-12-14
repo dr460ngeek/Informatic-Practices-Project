@@ -39,9 +39,9 @@ git clone https://github.com/dr460ngeek/Informatic-Practices-Project.git
 **or** Download the project directly from [github](https://github.com/dr460ngeek/Informatic-Practices-Project.git). Extract it and follow the instructions.
 
 #### Linux
+On your terminal with sudo su permissions.
 ```bash 
 cd Informatic-Practices-Project 
-sudo su
 chmod +x Linux.sh
 ./Linux.sh
 ```
