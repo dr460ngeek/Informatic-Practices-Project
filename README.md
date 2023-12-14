@@ -13,8 +13,8 @@
 *	Python 3.8.3 or higher version
 
 # Prerequisites
-Install python interpreter from the [official website](https://www.python.org/)
-Install git from the [official website](https://git-scm.com/)
+Install python interpreter from the [official website](https://www.python.org/).
+Install git from the [official website](https://git-scm.com/).
 ### Linux 
 #### Debian
 ```bash
